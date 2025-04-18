@@ -35,7 +35,7 @@
 1. Sign in and set your dietary preferences  
 2. Start a session and invite your friends  
 3. Everyone selects their preferred cuisine types  
-4. Fork It recommends 50+ restaurants based on collective preferences using a custom **weighted scoring algorithm** (e.g., Halal > Italian)  
+4. Fork It recommends 50+ restaurants based on collective preferences using a custom **weighted scoring algorithm**
 5. Users swipe to vote, and Fork It finalizes the group's top choice  
 6. Past winning restaurants are saved to your profile  
 
