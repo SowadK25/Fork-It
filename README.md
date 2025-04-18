@@ -43,7 +43,9 @@
 
 ## Screenshots
 
->
+<img src="public/HomeScreen.png" alt="drawing" width="200"/> <img src="public/Profile.png" alt="drawing" width="200"/> <img src="public/CreateSession.png" alt="drawing" width="200"/>
+<img src="public/SelectCuisines.png" alt="drawing" width="200"/> <img src="public/JoinSession.png" alt="drawing" width="200"/><img src="public/JoinSessionWait.png" alt="drawing" width="200"/>
+<img src="public/RestaurantSwipe.png" alt="drawing" width="200"/> <img src="public/VotingWait.png" alt="drawing" width="200"/> <img src="public/VoteResult.png" alt="drawing" width="200"/>
 
 ---
 
